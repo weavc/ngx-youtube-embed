@@ -1,10 +1,10 @@
 # ngx-youtube-embed
 
-### install
+### Install
 
 `npm i ngx-youtube-embed`
 
-#### Usage
+### Usage
 Import the module:
 ```typescript
 import { BrowserModule } from '@angular/platform-browser';
@@ -30,7 +30,9 @@ Add to template:
 ```
 ```html
 <youtube-embed [videoId]="id" width="1280" height="720" (ready)="savePlayer($event)"
-        (change)="onStateChange($event)" [protocol]="'https'" [playerVars]="{ controls: 1, showinfo: 0, rel: 0, autoplay: 1, modestbranding: 0 }"></youtube-embed>
+        (change)="onStateChange($event)" [protocol]="'https'" 
+        [playerVars]="{ controls: 1, showinfo: 0, rel: 0, autoplay: 1, modestbranding: 0 }">
+</youtube-embed>
 ```
 
 Handle variables & events/methods inside the component:
