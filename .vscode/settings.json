@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        // include the defaults from VS Code
+        "**/.git": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#f06363",
+        "activityBar.activeBorder": "#51ee51",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#51ee51",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#eb3535",
+        "titleBar.inactiveBackground": "#eb353599",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#eb3535",
+        "statusBarItem.hoverBackground": "#f06363",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#EB3535"
+}
