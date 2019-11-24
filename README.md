@@ -1,6 +1,6 @@
-### ngx-youtube-embed
+# ngx-youtube-embed
 
-#### install
+### install
 
 `npm i ngx-youtube-embed`
 
@@ -68,8 +68,8 @@ export class AppComponent {
 }
 ```
 
-#### info
+### Additional Info
 
-This repository, more specifically the code in `lib/`, is based off of [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player).
+The project is based off of [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player). The [MIT license](https://github.com/orizens/ngx-youtube-player/blob/a4b348ee089158637c15ade744567e6ed60352c1/LICENSE) for this is kept intact [here](lib/LICENSE).
 
 Look into the `YT.Player` interface for more details on what is or is not possible.
