@@ -1,5 +1,5 @@
 
-name: node build
+name: node build and test
 
 on: 
   push:
