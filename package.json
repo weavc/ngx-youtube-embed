@@ -1,7 +1,11 @@
 {
   "name": "ngx-youtube-embed",
-  "version": "0.0.0-beta1",
+  "version": "0.0.0-beta2",
   "description": "Embed youtube videos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisWeaver1/ngx-youtube-embed"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -65,5 +69,12 @@
     "tslint": "^5.15.0",
     "typescript": "~3.2.2",
     "zone.js": "^0.10.2"
-  }
+  },
+  "keywords": [
+    "youtube",
+    "embed",
+    "angular",
+    "ng",
+    "player"
+  ]
 }
