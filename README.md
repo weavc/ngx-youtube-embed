@@ -1,5 +1,7 @@
 # ngx-youtube-embed
-
+[![npm version](https://badge.fury.io/js/ngx-youtube-embed.svg)](https://badge.fury.io/js/ngx-youtube-embed)
+[![npm downloads a month](https://img.shields.io/npm/dm/ngx-youtube-embed.svg)](https://img.shields.io/npm/dm/ngx-youtube-embed.svg)
+[![npm downloads a week](https://img.shields.io/npm/dt/ngx-youtube-embed.svg)](https://img.shields.io/npm/dt/ngx-youtube-embed.svg)
 ### Install
 
 `npm i ngx-youtube-embed`
